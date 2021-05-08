@@ -1,0 +1,5 @@
+{
+    "DEFAULT_MODEL_NAME": "xlm-roberta-base",
+    "DEFAULT_MODEL": "models/default/pytorch_model.bin",
+    "DEFAULT_CLASS_NAMES": ["not-fake", "fake"]
+}
